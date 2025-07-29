@@ -18,6 +18,13 @@ Use the following demo account to explore:
 - **Password:** `Medicine@123`
 
 
+## 👥 Contributors
+
+This project was collaboratively developed by:
+
+- [Sampath Raj](https://github.com/sampath-raj)
+- [Ridhan R](https://github.com/ridhanofficial)
+
 
 ## Features
 
